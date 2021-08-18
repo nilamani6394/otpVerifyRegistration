@@ -9,3 +9,5 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
+
+#this content is used for databaseconnection
